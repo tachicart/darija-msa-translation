@@ -43,6 +43,7 @@ This project provides a way to use the fine-tuned GPT-4o model (`ft:gpt-4o-2024-
    ```
 
 Replace `your-api-key-here` with your actual OpenAI API key.
-
+## Authors
+Ridouane Tachicart, Karim Bouzoubaa
 ## License
 CC-BY
